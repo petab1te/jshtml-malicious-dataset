@@ -4,7 +4,7 @@
 
 This repository contains a jammed together collection of malicious javascript-containing html files.
 
-## Current dataset size (January 2022):
+## Current dataset size (December 2022):
 - 1156 HTML files
 
 ## Contributions are unlikely
